@@ -49,7 +49,6 @@ Below is a snapshot of the Excel-based dashboard:
 
 ![Clinical Biomarker Dashboard](dashboard_screenshot.png)
 
-> 📌 *Note:* Replace `dashboard_screenshot.png` with the actual image file name after uploading it to this repository.
 
 ---
 
