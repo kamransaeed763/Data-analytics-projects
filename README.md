@@ -64,12 +64,8 @@ Below is a snapshot of the Excel-based dashboard:
 
 ---
 
-## 📂 Repository Structure
-```text
-├── biomedical_large_dataset_2200_rows.xlsx
-├── README.md
-├── dashboard_screenshot.png
-└── sheets/
-    ├── Biomarker_Distributions
-    ├── Descriptive_Statistics
-    └── EDA
+## ✅ Conclusion
+
+This dashboard provides a clear and structured overview of clinical biomarker behavior and treatment outcomes across different disease categories. By integrating inflammatory markers such as **IL-6, TNF-α, and CRP** with treatment response and relapse data, the analysis enables rapid identification of clinically relevant patterns.
+
+The visualizations highlight meaningful differences in biomarker distributions among disease groups, demonstrate variability in treatment effectiveness, and reveal relationships between key inflammatory indicators. Overall, this dashboard serves as a practical exploratory tool for supporting clinical research, hypothesis generation, and data-driven decision-making in biomedical and healthcare analytics.
